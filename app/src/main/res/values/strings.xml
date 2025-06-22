@@ -1,0 +1,38 @@
+<!--
+  ~ Copyright (C) 2023 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     https://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <string name="app_name">Gudang Barang</string>
+    <string name="attention">Attention</string>
+    <string name="back_button">Back</string>
+    <string name="delete">Hapus</string>
+    <string name="delete_question">yakin ingin menghapus?</string>
+    <string name="no_item_description">Belum ada barang \nTekan +</string>
+    <string name="edit_item_title">Edit Item</string>
+    <string name="item">Barang</string>
+    <string name="item_detail_title">Detail Barang</string>
+    <string name="item_entry_title">Tambahkan Barang</string>
+    <string name="item_name_req">Nama Barang</string>
+    <string name="item_price_req">Harga</string>
+    <string name="no">No</string>
+    <string name="price">Harga</string>
+    <string name="quantity_in_stock">Stok</string>
+    <string name="in_stock">%d in stock</string>
+    <string name="quantity_req">Stok</string>
+    <string name="save_action">Simpan</string>
+    <string name="sell">Jual</string>
+    <string name="yes">Yes</string>
+    <string name="required_fields">Harus Diisi</string>
+</resources>
